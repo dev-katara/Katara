@@ -34,7 +34,7 @@ Full-stack developer with a strong focus on modern web technologies and high-per
 
 - 🌐 [Website](https://katara.dev/)
 - 🐙 [GitHub](https://github.com/dev-katara/)
-- 💬 Discord: `this.is.katara`
+- 💬 [Discord](https://discord.com/users/359410250144808963/)
 
 ---
 
