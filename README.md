@@ -1,4 +1,4 @@
-# Hey, I’m Katara
+# Hey, I’m Katára
 
 Full-stack developer with a strong focus on modern web technologies and high-performance game tools. I enjoy building clean, scalable, and user-focused applications – from SaaS platforms to real-time gaming systems.
 
