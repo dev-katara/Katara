@@ -32,8 +32,8 @@ Full-stack developer with a strong focus on modern web technologies and high-per
 
 ## 📫 Let’s Connect
 
-- 🌐 [Website]([https://example.com](https://katara.dev/))
-- 🐙 [GitHub]([https://github.com/mano](https://github.com/dev-katara))
+- 🌐 [Website](https://katara.dev/)
+- 🐙 [GitHub](https://github.com/dev-katara/)
 - 💬 Discord: `this.is.katara`
 
 ---
