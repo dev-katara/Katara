@@ -24,7 +24,6 @@ Full-stack developer with a strong focus on modern web technologies and high-per
 ## 🚀 What I’m Working On
 
 - 🧱 Building modular SaaS platforms with multi-tenant architecture
-- ⚡ Designing beautiful, responsive UIs using Tailwind + Shadcn/UI + Framer Motion
 - 🧠 Exploring AI integrations in apps (ChatGPT, custom assistants)
 - 🛡️ Developing game-side systems and custom client/server tools
 
